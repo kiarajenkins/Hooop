@@ -29,6 +29,9 @@ A digital recreation of the board game "Hooop!" made in Java, utilizing OOP and 
 
 6. **Play the Game**
 
+   ![Game Screen](Images/gameScreen.PNG "Game Screen")
+   ![Gameplay](Images/gameplay.PNG "Gameplay")
+
 ## 🌊 Known Bugs
 - Minor display issues if you are not using a 1920x1080 display due to some Java Swing scaling issues
 - Extra bridge action card only allows one bridge instead of two
@@ -41,7 +44,9 @@ My contributions to this project included:
 - Adjacency detection between lily pads
 - Bridge functionality
 - Implementation of some action cards
-- Testing and debugging
+- Testing and debugging  
+
+Other contributions were made by my classmates **Hamzeh Alhyari** and **Zach Power**.
 
 ## ⚙️ Tech Stack
 - Java
