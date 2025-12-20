@@ -14,10 +14,10 @@ A digital recreation of the board game "Hooop!" made in Java, utilizing OOP and 
 1. **Installation:**
    - Clone the repository: `git clone https://github.com/kiarajenkins/Hooop`
 2. **Open the Game:**
-   - In the installation folder, open `Hooop.jar`, or run on the Command Line:
+   - In the installation directory, open `Hooop.jar`, or run on the Command Line:
      ```bash
-     cd Hooop
-     java -jar Hoop.jar
+     cd <path/to/Hooop>     # replace with installation directory
+     java -jar Hooop.jar
      ```
 3. **Start or Load a Game**
    
@@ -28,6 +28,25 @@ A digital recreation of the board game "Hooop!" made in Java, utilizing OOP and 
 5. **Add Player Names and Start Game**
 
 6. **Play the Game**
+
+## 🌊 Known Bugs
+- Minor display issues if you are not using a 1920x1080 display due to some Java Swing scaling issues
+- Extra bridge action card only allows one bridge instead of two
+- You can choose for a player to be AI but the actual functionality is not yet implemented
+- Minor gameplay bugs
+
+## 💻 Contributions
+My contributions to this project included:
+- Logic for validating legal moves
+- Adjacency detection between lily pads
+- Bridge functionality
+- Implementation of some action cards
+- Testing and debugging
+
+## ⚙️ Tech Stack
+- Java
+- Java Swing
+
 
 ## 📖 Credits and Attributions
 This project is a recreation of the board game **Hooop!** and was completed in a group as part of COMP 2005 "Software Engineering" at Memorial University of Newfoundland. This project is not affiliated with or endorsed by the designer, artist, or any publisher.
