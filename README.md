@@ -20,6 +20,14 @@ A digital recreation of the board game "Hooop!" made in Java, utilizing OOP and 
      java -jar Hoop.jar
      ```
 3. **Start or Load a Game**
+   
+   ![Loading Screen](Images/loadingScreen.PNG "Loading Screen")
+   
+4. **Read Rules and Select Number of Players**
+   
+5. **Add Player Names and Start Game**
+
+6. **Play the Game**
 
 ## 📖 Credits and Attributions
 This project is a recreation of the board game **Hooop!** and was completed in a group as part of COMP 2005 "Software Engineering" at Memorial University of Newfoundland. This project is not affiliated with or endorsed by the designer, artist, or any publisher.
