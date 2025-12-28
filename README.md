@@ -32,7 +32,7 @@ A digital recreation of the board game "Hooop!" made in Java, utilizing OOP and 
    ![Game Screen](Images/gameScreen.PNG "Game Screen")
    ![Gameplay](Images/gameplay.PNG "Gameplay")
 
-## 🌊 Known Bugs
+## 🪲 Known Bugs
 - Minor display issues if you are not using a 1920x1080 display due to some Java Swing scaling issues
 - Extra bridge action card only allows one bridge instead of two
 - You can choose for a player to be AI but the actual functionality is not yet implemented
